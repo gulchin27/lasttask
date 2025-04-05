@@ -1,0 +1,16 @@
+.container-planned-task{
+    align-items: center;
+    justify-content: center;
+}
+.planned-task{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.Title-planned-task{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5%;
+}

@@ -1,0 +1,8 @@
+.sort-drop{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left:78%;
+    margin-bottom: 20px;
+    margin-top:20px ;
+}
